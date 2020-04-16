@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aidojs/aido-cron.git"
+    "url": "git+https://github.com/aidojs/aido-emitters.git"
   },
   "bugs": {
-    "url": "https://github.com/aidojs/aido-cron/issues"
+    "url": "https://github.com/aidojs/aido-emitters/issues"
   },
   "author": "Damien BUTY <dam.buty@gmail.com>",
   "license": "ISC"
